@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "string": "cpp",
+    "algorithm": "cpp",
+    "list": "cpp",
+    "memory": "cpp",
+    "tuple": "cpp",
+    "vector": "cpp",
+    "xhash": "cpp",
+    "xlocnum": "cpp",
+    "xmemory": "cpp",
+    "xstring": "cpp",
+    "xtree": "cpp",
+    "xutility": "cpp",
+    "unordered_set": "cpp"
+  }
+}
